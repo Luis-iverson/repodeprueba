@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <head>    
+        <meta charset="UTF-8">
+        <title>ejemplo de programacion</title>
+    </head>
+    <body>
+        <img src="Imagen de WhatsApp 2025-07-17 a las 20.19.06_5e5c1200.jpg" alt="20% descripcion de la imagen" width="20%" height="20%">
+        <h1>Luis Carlos Angulo Paz</h1>
+        <h2>Acerca de mi</h2>
+        <p>soy asistente operativo en una empresa de medicamentos</p>
+
+        <p>mis hobbies son ver animes,peliculas, me gusta la tegnologia y aprender cada dia cosas nuevas</p>
+        <h2>Experiencia laboral</h2>
+        <h2>Promo Ambiental</h2>
+        <h2>Transportadora La prensa del Valle SAS</h2>
+        <h2>Eticos Serrano Gomez</h2>
+        <h2>estudios</h2>
+        <h2>Referencias personales</h2>
+        <h2>Maira Alejandra Caballero</h2>
+        <h2>Carlos Angulo Delgado</h2>
+    </body>
+</html>
+<h3>su historial educativo</h3>
+<!--tabla-->
+<table border="1" cellpadding="0" cellspacing="10">
+    <!--fila horizontal-->
+    <tr>
+        <!--aqui se define el titulo de cada columna-->
+        <th>Fecha</th>
+        <th>Institución</th>
+        <th>Título</th>
+        </tr>
+    <table>
+    <tr>
+        <!-- el contenido de cada fila -->
+        <td>2005-2010</td>
+        <td>Escuela Primaria</td>       
+        <td>2010-2015</td>
+        <td>Escuela Secundaria</td>
+        <td>Diploma de Secundaria</td>
+    </tr>
+    <tr>
+        <td>2016-2019</td>
+        <td>Universidad Nacional</td>
+        <td>Licenciatura en Administración</td>
+    </tr>
+</table>
+        <tr>
+            <th>Fecha</th>
+            <th>Institución</th>
+            <th>Título</th>
+        </tr>
+        <tr>
+            <td>2005-2010</td>
+            <td>Escuela Primaria</td>
+            <td>Diploma de Primaria</td>
+        </tr>
+        <tr>
+            <td>2010-2015</td>
+            <td>Escuela Secundaria</td>
+            <td>Diploma de Secundaria</td>
+        </tr>
+        <tr>
+            <td>2016-2019</td>
+            <td>Universidad Nacional</td>
+            <td>Licenciatura en Administración</td>
+        </table>
